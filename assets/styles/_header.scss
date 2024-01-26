@@ -4,16 +4,16 @@
     position: relative;
 
     .navbar {
-        @include headerFlex;
+        @include dFlex;
         padding-top: 30px;
         padding-bottom: 107px;
 
         .header-list {
-            @include headerFlex;
+            @include dFlex;
             gap: 20px;
 
             li a {
-                @include headerFlex;
+                @include dFlex;
                 padding: 10px 5px;
                 color: #0a033c;
                 font-size: 16px;
@@ -24,11 +24,11 @@
         }
 
         .header-sign-up {
-            @include headerFlex;
+            @include dFlex;
             gap: 30px;
 
             a {
-                @include headerFlex;
+                @include dFlex;
                 gap: 10px;
                 color: #0a033c;
                 font-size: 16px;
@@ -40,7 +40,7 @@
     }
 
     .hero {
-        @include headerFlex(space-between, flex-start);
+        @include dFlex(space-between, flex-start);
         gap: 120px;
 
         .hero-left {
@@ -76,7 +76,7 @@
             }
 
             .header-input {
-                @include headerFlex;
+                @include dFlex;
                 background-color: #fff;
                 border-radius: 10px;
 
@@ -114,7 +114,7 @@
                 }
 
                 button {
-                    @include headerFlex;
+                    @include dFlex;
                     gap: 5px;
                     padding: 13px 30px;
                     border-radius: 10px;

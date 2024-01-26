@@ -1,0 +1,21 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="php-code 1" clip-path="url(#clip0_1_1635)">
+<g id="Group">
+<path id="Vector" d="M15 0H0V4.39453L16.7578 7.91016L15 0Z" fill="#A1A1A1"/>
+<path id="Vector_2" d="M15 0H19.3945V7.03125H15V0Z" fill="#828282"/>
+<path id="Vector_3" d="M16.7578 4.39453H0V8.78906L16.7578 13.1836V4.39453Z" fill="#636363"/>
+<path id="Vector_4" d="M15 12.3047L30 8.78906V0H19.3945L15 4.39453V12.3047Z" fill="#434343"/>
+<path id="Vector_5" d="M30 8.78906H15L7.96875 19.3945L15 30H30V8.78906Z" fill="#0FDBFF"/>
+<path id="Vector_6" d="M0 8.78906H15V30H0V8.78906Z" fill="#80EEFF"/>
+<path id="Vector_7" d="M3.51562 24.7266H5.27344V22.0312H10V14.0625H3.51562V24.7266ZM5.27344 15.8203H8.24221V20.2734H5.27344V15.8203Z" fill="white"/>
+<path id="Vector_8" d="M20 14.0625V24.7266H21.7578V22.0312H26.4844V14.0625H20ZM24.7266 20.2734H21.7578V15.8203H24.7266V20.2734Z" fill="#C2F7FF"/>
+<path id="Vector_9" d="M16.4844 14.0625V18.5156H15L14.1211 19.3652L15 20.2734H16.4844V24.7266H18.2422V14.0625H16.4844Z" fill="#C2F7FF"/>
+<path id="Vector_10" d="M13.5157 18.5156V14.0625H11.7578V24.7266H13.5157V20.2734H15V18.5156H13.5157Z" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_1635">
+<rect width="30" height="30" fill="white"/>
+</clipPath>
+</defs>
+</svg>
